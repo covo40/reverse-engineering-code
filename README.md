@@ -1,5 +1,10 @@
 # reverse-engineering-code
 
+
+In the Develop folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility.
+
+Below gives more understanding of files...
+
 ----CONFIG----
 MIDDLEWARE  
 *isAuthenticated.js* {restricts routes that user is not allowed to visit if they are not logged in or a member. Otherwise, it will fulfill the request.}   
